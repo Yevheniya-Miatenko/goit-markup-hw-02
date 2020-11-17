@@ -1,0 +1,177 @@
+body {
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.03em;
+background-color: #ffffff;
+color: #757575;
+}
+
+.link {
+text-decoration: none;
+}
+
+.list {
+list-style: none;
+}
+/*Header*/
+
+.logo, 
+.web {
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 31px;   
+}
+
+.web {
+color:#2196F3;
+}
+
+.logo {
+color: #000000;
+}
+
+.navigation-list-link,
+.header-adress {
+letter-spacing: 0.02em;
+}
+
+.navigation-list-link {
+color: #212121;
+}
+
+.header-adress {
+color: #757575;
+}
+
+.navigation-list-link:hover,
+.navigation-list-link:focus,
+.header-adress:hover,
+.header-adress:focus {
+color: #2196F3;;
+}
+
+/*main Заказ услуг */
+
+.hero-title {
+font-weight: 900;
+font-size: 44px;
+line-height: 1.36;
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+color: #FFFFFF;
+background: #2F303A;
+}
+
+.modal-btn{
+font-size: 16px;
+line-height: 1.88;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+color: #ffffff;
+background-color: #2196F3;
+}
+
+/*main Приоритеты компании, Виды деятельности*/
+
+.heading3{
+text-transform: uppercase;
+color: #212121;
+}
+
+.prioriti{
+font-weight: normal;
+font-size: 14px;
+line-height: 1.71;
+}
+
+.heading2{
+font-size: 36px;
+line-height: 1.17;
+text-align: center;
+color: #212121;
+}
+
+/*main Наши сотрудники*/
+
+.name{
+font-weight: 500;
+font-size: 16px;
+line-height: 1.88;
+text-align: center;
+color: #212121;
+}
+
+.cprofession-name {
+font-weight: normal;
+font-size: 16px;
+line-height: 1.88;
+text-align: center;
+}
+
+/*footer*/
+
+.adress{
+font-weight: normal;
+font-size: 14px;
+line-height: 1.71;
+color: #ffffff;
+}
+
+.e-mail,
+.tel {
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 1.71;
+color: rgba(255, 255, 255, 0.6);
+}
+
+.footer{
+background: #2F303A;
+}
+
+.logo-footer{
+font-family: Raleway;
+font-size: 26px;
+line-height: 1.19;    
+color: #ffffff;
+}
+
+/*Portfolio*/
+
+.button-our-work{
+font-weight: 500;
+font-size: 16px;
+line-height: 1.63;
+text-align: center;
+color: #212121;
+}
+
+.button-our-work:hover,
+.button-our-work:focus {
+background-color: #2196F3 ;
+color: #ffffff;
+}
+
+.all-work{
+font-size: 18px;
+line-height: 2;
+letter-spacing: 0.06em;
+color: #212121;
+}
+
+.all-project{
+font-weight: normal;
+font-size: 16px;
+line-height: 1.88;
+color: #757575;
+}
+    
